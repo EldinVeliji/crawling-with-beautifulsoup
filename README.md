@@ -79,7 +79,7 @@ Për me e startu aplikacionin veq hyni te [DataScraping - tkinter] edhe ekzekuto
 
 ![](Images/resultChart.PNG)
 
-Printojmë disa informacione në DataFrame me anë të librarisë Panda:
+**Printojmë disa informacione në DataFrame me anë të librarisë Panda:**
 
 ![](Images/resultPanda.PNG)
 
