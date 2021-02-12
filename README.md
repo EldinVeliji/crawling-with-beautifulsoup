@@ -1,6 +1,10 @@
 # Crawling me Beautifulsoup
 Detyra e tretë nga Lënda “Siguria në Internet”. Grupi i 20
 
+Ju lutemi të merrni parasysh se për shkak të dhënave të mëdhaja të cilat ekstraktohen nga web-sajti, ekzekutimi i kodit mund të zgjas prej 20 deri në 30 minuta, varësisht prej fuqisë procesorike të llaptopit apo kompjuterit juaj.
+
+Nëse doni që ekzekutimi i kodit të zgjasë më pak, shkoni te rreshti i 27 (**years_url = [str(i) for i in range(2010, 2021)]**) edhe ndrroni range qysh e doni, sa ma pak vite aq më shpejt ekzekutohet kodi
+
 # Rreth këtij aplikacioni
 
 Cka është crawling?
