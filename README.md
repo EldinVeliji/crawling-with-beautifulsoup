@@ -71,11 +71,11 @@ Për me e startu aplikacionin veq hyni te [DataScraping - tkinter] edhe ekzekuto
 
 ![Fundi i ekzekutimit]( https://media.giphy.com/media/DDC8InLGHLbvS8r0P9/giphy.gif)
 
-Rezultati në Excel:
+**Rezultati në Excel:**
 
 ![](Images/resultExcel.PNG)
 
-Rezultati nga Chart-i:
+**Rezultati nga Chart-i:**
 
 ![](Images/resultChart.PNG)
 
@@ -83,7 +83,7 @@ Printojmë disa informacione në DataFrame me anë të librarisë Panda:
 
 ![](Images/resultPanda.PNG)
 
-#Konkludimi
+# Konkludimi
 Si konkludim ne kemi arritur me sukses të marrim rreth 2862 filma me emrat e tyre, imdb-rating të tyre, vitin kur kanë dalë, etj. një web-faqe(IMDB), t’i paraqesim të dhënat në një graf, si dhe t’i paraqesim të gjitha të dhënat e marrura nga web-faqja në një Excel spreadsheet. Si dhe kemi mësuar qysh përdoren libraritë si: tkinter. Panda, matplotlib dhe BeautifulSoup.
 
 # Referencat
