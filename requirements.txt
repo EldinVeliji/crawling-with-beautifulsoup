@@ -1,0 +1,4 @@
+pandas==1.2.2
+matplotlib==3.3.3
+beautifulsoup==4.9.3
+tkinter==8.6
