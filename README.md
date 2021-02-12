@@ -25,7 +25,7 @@ import matplotlib.pyplot as plt
 
 # Startimi i aplikacionit
 
-Për me e startu aplikacionin veq hyni te [DataScraping - tkinter] edhe ekzekutoni kodin. Nëse keni të instaluar [Visual Studio Code]( https://code.visualstudio.com/) veq shtypni butonin [F5]
+Për me e startu aplikacionin veq hyni te [DataCrawling-tkinter.py] edhe ekzekutoni kodin. Nëse keni të instaluar [Visual Studio Code]( https://code.visualstudio.com/) veq shtypni butonin [F5]
 
 ![executing the code](https://media.giphy.com/media/01cTq1eJHnR8Sq1GWQ/giphy.gif) 
 
