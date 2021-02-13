@@ -29,42 +29,6 @@ Për me e startu aplikacionin veq hyni te [DataCrawling-tkinter.py] edhe ekzekut
 
 ![executing the code](https://media.giphy.com/media/01cTq1eJHnR8Sq1GWQ/giphy.gif) 
 
-# Spjegimi i kodit
-
-*	Definimi i funksionit crawlData()
-*	Caktimi i URL prej të cilit do të merret data
-*	get(url) – kërko nga serveri përmbajtjen e web faqes edhe ruaj përgjigjen e serverit në *response*
-
-![](Images/spjegimiKodit1.PNG)
-
-*	find_all() – metoda për ekstraktimin e të gjitha *div* kontenjerat të cilat e kanë atributin e klasës **’lister-item mode-advanced’**
-*	Deklarojmë disa *lista* për me i ruajt të dhënat në diku
-
-![](Images/spjegimiKodit2.PNG)
-
-*	Krijimi i Loop-ave 
-*	headers – parametri me anë të cilit nëse nuk dojmë që të dhënat të cilat i marrim të jenë në ndonjë gjuhë tjetër (nëse i marrim të dhënat prej kosovës, disa të dhënat do të përkthehen në gjuhën shqipe)
-
-![](Images/spjegimiKodit3.PNG)
-
-*  Ekstraktimi i të dhënave
-
-![](Images/spjegimiKodit4.PNG)
-
-*	Mbikqyrja e të dhënave të ekstraktuara me anë të librarisë Panda
-*	Pastrimi i të dhënave
-*	Vendosja e të dhënave në spreadsheet
-
-![](Images/spjegimiKodit5.PNG)
-
-*	Krijimi i grafit me anë të librarisë matplotlib.pyplot
-
-![](Images/spjegimiKodit6.PNG)
-
-*	Dukja e aplikacionit me anë të librarisë tkinter
-
-![](Images/spjegimiKodit7.PNG)
-
 # Rezultatet
 
 **Fillimi i ekzekutimit**
