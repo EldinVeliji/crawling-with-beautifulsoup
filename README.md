@@ -1,10 +1,6 @@
 # Crawling me Beautifulsoup
 Detyra e tretë nga Lënda “Siguria në Internet”. Grupi i 20
 
-Ju lutemi të merrni parasysh se për shkak të dhënave të mëdhaja të cilat ekstraktohen nga web-sajti, ekzekutimi i kodit mund të zgjas prej 20 deri në 30 minuta, varësisht prej fuqisë procesorike të llaptopit apo kompjuterit juaj.
-
-Nëse doni që ekzekutimi i kodit të zgjasë më pak, shkoni te rreshti i 27 (**years_url = [str(i) for i in range(2010, 2021)]**) edhe ndrroni range qysh e doni, sa ma pak vite aq më shpejt ekzekutohet kodi
-
 # Rreth këtij aplikacioni
 
 Cka është crawling?
@@ -53,6 +49,11 @@ Për me e startu aplikacionin veq hyni te [DataCrawling-tkinter.py] edhe ekzekut
 
 # Konkludimi
 Si konkludim ne kemi arritur me sukses të marrim rreth 2862 filma me emrat e tyre, imdb-rating të tyre, vitin kur kanë dalë, etj. një web-faqe(IMDB), t’i paraqesim të dhënat në një graf, si dhe t’i paraqesim të gjitha të dhënat e marrura nga web-faqja në një Excel spreadsheet. Si dhe kemi mësuar qysh përdoren libraritë si: tkinter. Panda, matplotlib dhe BeautifulSoup.
+
+
+Për shkak të dhënave të mëdhaja të cilat ekstraktohen nga web-sajti, ekzekutimi i kodit mund të zgjas prej 20 deri në 30 minuta, varësisht prej fuqisë procesorike të llaptopit apo kompjuterit juaj.
+
+Nëse doni që ekzekutimi i kodit të zgjasë më pak, shkoni te rreshti i 27 (**years_url = [str(i) for i in range(2010, 2021)]**) edhe ndrroni range qysh e doni, sa ma pak vite aq më shpejt ekzekutohet kodi
 
 # Referencat
 
